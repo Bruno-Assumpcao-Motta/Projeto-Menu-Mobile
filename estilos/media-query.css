@@ -4,5 +4,8 @@
     
     i#burguer {
         display: none;
-    }    
+    } 
+    menu {
+        display: block;
+    }   
 }
